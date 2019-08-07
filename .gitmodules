@@ -1,0 +1,3 @@
+[submodule "obspy_tools"]
+	path = obspy_tools
+	url = https://github.com/lvanderlaat/obspy_tools
